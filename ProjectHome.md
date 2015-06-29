@@ -1,0 +1,1 @@
+Django's project template to start new projects
